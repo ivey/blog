@@ -1,7 +1,9 @@
 RedirectMatch temp ^/~ivey(.*)$ http://d3dw.gweezlebur.com/~ivey$1
+Redirect permanent /feed/atom.xml http://gweezlebur.com/atom.xml
 
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+) $1  [L]
+
