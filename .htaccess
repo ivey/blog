@@ -1,0 +1,7 @@
+RedirectMatch temp ^/~ivey(.*)$ http://d3dw.gweezlebur.com/~ivey$1
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+) $1  [L]
