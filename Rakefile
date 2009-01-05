@@ -1,5 +1,5 @@
 task :jekyll do
-  sh %q{jekyll --pygments --lsi}
+  sh %q{jekyll --pygments}
 end
 
 task :publish do
