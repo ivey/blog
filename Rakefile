@@ -10,9 +10,13 @@ task :server do
   jekyll "--server 3100"
 end
 
+task :push do
+  sh %q{git push origin}
+end
+
 task :rsync do
   sh %q{rsync -Cavz _site/ gweezlebur.com\:public_html}
   sh %q{rsync -Cavz .htaccess gweezlebur.com\:public_html}
 end
 
-task :publish => [:build, :rsync]
+task :publish => [:push, :build, :rsync]
