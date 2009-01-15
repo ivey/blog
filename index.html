@@ -12,6 +12,11 @@ title: Michael Ivey - blogging since '99 (mostly)
     <li><a href="archive.html">More...</a></li>
   </ul>
 
+  <h1>Recent Tweets</h1>
+  <div id="tweet">
+    <p>Please wait while my tweets load <img src="/images/ajax-loader.gif" /></p>
+    <p><a href="http://twitter.com/ivey">If you can't wait - check out what I've been twittering</a></p>
+  </div>
 
   <h1>Other Stuff</h1>
   <ul class="posts">
@@ -27,3 +32,15 @@ title: Michael Ivey - blogging since '99 (mostly)
   <!--   <li><a href="http://github.com/mojombo/chronic/">Chronic:</a> Ruby natural language date/time parser</li> -->
   <!-- </ul> -->
 </div>
+
+<script src="/twitter.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+getTwitters('tweet', { 
+  id: 'ivey', 
+  count: 5, 
+  enableLinks: true, 
+  ignoreReplies: true, 
+  clearContents: true,
+  template: '%text% <span style="font-size:50%;">(<a href="http://twitter.com/%user_screen_name%/statuses/%id%/">%time%</a>)</span>'
+});
+</script>
