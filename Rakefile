@@ -7,7 +7,7 @@ task :build do
 end
 
 task :server do
-  jekyll "--server 3100"
+  jekyll "--server 3100 --auto"
 end
 
 task :push do
