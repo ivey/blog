@@ -20,3 +20,15 @@ task :rsync do
 end
 
 task :publish => [:push, :build, :rsync]
+
+
+task :draft do
+  print "Name: "
+  foo = STDIN.gets
+  puts slugify(foo)
+end
+
+
+def slugify(str)
+  str.downcase.gsub(/ +/,'-').gsub(/[^-\w]/,'')
+end
