@@ -1,0 +1,51 @@
+---
+title: BarCamp Mobile (as in, Alabama)
+layout: post
+---
+
+It's official: we're having a BarCamp in South Alabama.
+[BarCamp Mobile][] will be held March 20-21 at the
+[University of South Alabama][]. Main conference is Saturday,
+with dinner and social gathering for anyone in town Friday night.
+
+**Please Note:** This is a [BarCamp][] in Mobile, AL. That's
+"mo-beel".  Not "mo-buhl", as in mobile technology. "Mo-beel" as in
+"Port Of Mobile" or "Mobile Bay". Think azaleas, sweet tea, and
+oysters on the half shell. There may or may not be mobile developers
+talking about mobile development, but it will definitely be in
+Mobile. Got it?
+
+Never been to a [BarCamp][] before? Wondering what it is?
+
+> "BarCamp is an ad-hoc gathering born from the desire for people
+> to share and learn in an open environment. It is an intense event
+> with discussions, demos and interaction from participants."
+
+It's an unconference. There isn't a separation between speakers and
+participants. Every participant is a speaker, every speaker is a
+participant. We'll develop the agenda on the wiki, on Friday night,
+and on Saturday morning.
+
+If you're coming, be prepared to present about something you think is
+cool: BarCamp is as good as the participants make it. This isn't a
+typical conference where you listen to people talk all day. Sessions
+will be interactive, so plan to ask questions, chime in, and generally
+share as much information as you have.
+
+Oh, and it's a lot of fun. I met some really cool people at BarCamp
+Atlanta two years ago, and again at BarCamp Atlanta II last year.
+
+ * Want to come? Go to [BarCamp Mobile][]'s website and fill in the
+   registration form. It's free, but we do need to have an accurate
+   headcount for food, t-shirts, sponsors, etc.
+
+ * Want to help? Come to our [discussion room](http://www.chatterous.com/bcmob/)
+   and introduce yourself, or join our
+   [Google group](http://groups.google.com/group/barcamp-mobile/).
+
+ * Want to keep up to date? [Follow us on Twitter](http://twitter.com/barcamp_mobile).
+
+
+[BarCamp Mobile]: http://barcampmobile.org
+[BarCamp]: http://barcamp.org
+[University of South Alabama]: http://southalabama.edu
