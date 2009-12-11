@@ -1,5 +1,6 @@
 ---
 title: Thanks for the Retweets
+layout: post
 ---
 
 Lately I've been seeing a handful of tweets per day that say something like,
