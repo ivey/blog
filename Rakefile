@@ -1,5 +1,5 @@
 def jekyll(args=nil)
-  sh %Q{ jekyll --pygments #{args}}
+  sh %Q{ jekyll #{args}}
 end
 
 task :build do
