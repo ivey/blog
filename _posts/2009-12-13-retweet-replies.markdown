@@ -18,10 +18,10 @@ Retweets are awesome with you.
 
 [@ev](http://evhead.com/2009/11/why-retweet-works-way-it-does.html):
 > The other thing some people will not like is that, unlike organic
-  RTs, there's no way to annotate or leave your own comment when you
-  retweet something with the new system...we have some ideas there,
-  and it's possible we'll build that in at a later date. (This point
-  should not be missed.)
+> RTs, there's no way to annotate or leave your own comment when you
+> retweet something with the new system...we have some ideas there,
+> and it's possible we'll build that in at a later date. (This point
+> should not be missed.)
 
 This is important, and it's a big reason some people don't want to use
 the native Retweets. Even [@jack isn't using them](http://twitter.com/jack/statuses/6151286368).
