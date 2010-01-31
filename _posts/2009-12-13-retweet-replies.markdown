@@ -11,7 +11,7 @@ remember long enough to refute them.
 
 But that's not what I'm writing about tonight.
 
-There is on real deficiency with native Retweets. Ev even mentioned it
+There is one real deficiency with native Retweets. Ev even mentioned it
 in [his blog post](http://evhead.com/2009/11/why-retweet-works-way-it-does.html),
 which is excellent, and required reading before I'll debate why native
 Retweets are awesome with you.
