@@ -32,10 +32,10 @@ Don't add everyone from Twitter and Facebook. Be selective. I have
 maybe 20 Foursquare friends, and all but one are people I know in
 person.
 
-4. **Don't automatically post every checkin to Twitter**  
+4. **Don't automatically post every check-in to Twitter**  
 The whole point of Foursquare having a separate set of friends is that
 you can limit who you share your location with. If you post every
-update to Twitter, you're not only oversharing to your followers, but
+update to Twitter, you're not only over-sharing to your followers, but
 you lose that intimacy.
 
 5. **Post selective updates to Twitter**  
@@ -47,8 +47,8 @@ phone numbers...much more info than just a geocoded location.
 
 6. **Play the game**  
 Foursquare's game mechanics are fun. Enjoy them. Battle it out for
-control of the taco stand. Stake your claim at every doughnut shop
-within 25 miles.
+mayoral control of the taco stand. Stake your claim at every doughnut
+shop within 25 miles. Pick some badges and try to win them.
 
 7. **Discover new places, find your friends**  
 On the rare occasion that I find myself in a city where I have
