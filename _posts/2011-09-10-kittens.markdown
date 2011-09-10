@@ -1,0 +1,31 @@
+---
+title: Kittens
+layout: post
+---
+
+<div style="float:right">
+<a href="http://mlkshk.com/p/72NN">
+<img src="http://mlkshk.com/r/72NN" border="0" height="200px" />
+</a>
+</div>
+
+So I'm thinking about blogging again. I do this every year or so, I
+know, usually when it's time to update the copyright in my footer.
+
+A lot has happened since my last post: I left Twitpay, worked at a
+social gaming company for a while, have had at least 4 foster dogs,
+learned a few new programming langauges, and started a new
+company. Some of those things I've talked about on Twitter, and some I
+can't or don't want to talk about in any more detail, and one of those
+will be much more public soon.
+
+I'm still as active on Twitter as I was a year and a half ago, and I
+still think it's the best place to communicate, discover, and be
+amused. I've also spent time on a few photo sites. I'm really loving
+<a href="http://mlkshk.com">mlkshk</a>, so much so that I got a paid
+account. You can see <a href="http://mlkshk.com/popular">what's
+popular right now</a> and learn a lot about the type of site and
+community it's becoming.
+
+We'll see if this pass at blogging sticks. If not,
+<a href="/contact">you know where to find me</a>.
